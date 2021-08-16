@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img_Sign in_artdeco-entity-image artdeco-en_bd8c2a</name>
+   <tag></tag>
+   <elementGuidId>2fc1b2ef-8385-4946-aea5-cdef94d1fcf2</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//main[@id='main-content']/section/section/div/div/img</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>img.artdeco-entity-image.artdeco-entity-image--square-8.top-card-layout__entity-image.lazy-loaded</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>artdeco-entity-image artdeco-entity-image--square-8 top-card-layout__entity-image lazy-loaded</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-ghost-classes</name>
+      <type>Main</type>
+      <value>artdeco-entity-image--ghost</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-ghost-url</name>
+      <type>Main</type>
+      <value>https://static-exp1.licdn.com/sc/h/9rxpcj33wtsq3w7nxb3u3ku6e</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>alt</name>
+      <type>Main</type>
+      <value>The Sparks Foundation</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>https://media-exp1.licdn.com/dms/image/C560BAQFgHU3sTF4LfQ/company-logo_200_200/0/1519895156650?e=2159024400&amp;v=beta&amp;t=1iqBaESC2l4UUW7JjEjq0R_HQhwRTaaqyQG1k46q4bs</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main-content&quot;)/section[@class=&quot;core-rail&quot;]/section[@class=&quot;top-card-layout&quot;]/div[@class=&quot;top-card-layout__card&quot;]/div[@class=&quot;top-card-layout__entity-image-container&quot;]/img[@class=&quot;artdeco-entity-image artdeco-entity-image--square-8 top-card-layout__entity-image lazy-loaded&quot;]</value>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//main[@id='main-content']/section/section/div/div/img</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:img</name>
+      <type>Main</type>
+      <value>//img[@alt='The Sparks Foundation']</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//section/div/div/img</value>
+   </webElementXpaths>
+</WebElementEntity>
